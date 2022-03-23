@@ -1,0 +1,349 @@
+01 - Introdução ao SCRUM
+
+Aula 1
+Projetos Ágeis Scrum
+
+Desafios do desenvolvimento de Software
+
+Objetivos do negócio
+
+Requisitos -->
+
+Processo de Desenvolvimento{
+  Concepção
+  Análise e Design
+  Desenvolvimento
+  Testes
+  Implantação
+  }
+
+"Princípio de Pareto: 20% das funcionalidades costumam gerar 80% ou mais do benefício esperado."
+
+Gestão de Projetos
+
+Tradicional (Waterfall): Só permite que um projeto avance quando uma fase está inteiramente completa.
+
+Escopo é definido na fase inicial do projeto (Preditivo).
+Projeto é controlado por fases e marcos
+Cliente só vê o software funcionando na fase final do projeto
+Resistência a mudanças
+
+Ágil: Software construido por partes (Incremental) e cada parte executa-se em um ciclo (Iterativo).
+
+Escopo definido ao longo do projeto (Adaptativo).
+Projeto é controlado por funcionalidades entregurs
+Cliente pode ver parte do software funcionando na parte inicial do projeto
+Mudanças constantes de acordo com feedbacks continuos.
+
+Em projetos tradicionais, você corre o risco de descobrir que estava errado depos de meses. Com SCRUM, você descobre que estava errado em no máximo 30 dias
+
+O que é ser Ágil?
+
+Ágil é diferente de rápido. Ter capacidade de responder rapidamente a mudanças.
+
+Rapidez (Mudança) e desembaraço;
+Fazer coisas complexas de forma simples;
+Equipe comprometida com os objetivos;
+Maior valor para o cliente;
+
+-Scrum é um dos frameworks de gerenciamento de projetos ágeis.
+-Projetos usando equipes pequenas e multidisciplinares produzem os melhores resultados.
+
+Pilares SCRUM
+Transparencia
+-Conversar mais e escrever menos;
+-Demonstra o software constantemente aos usuários e obter feedbacks constantes;
+
+Inspeção
+-Requisitos mudam ao longo do tempo;
+
+Adaptação
+-Aprender progressivamente com o uso do Software;
+
+Razões para adotar SCRUM
+
+Desenvolvido e entregues em partes menores(2 a 4 semanas), com constantes feedbacks dos usuários;
+Melhor gerenciamento de riscos; (Redução de incertezas)
+Comprometimento, motivação e transparência da equipe;(Daily Meeting);
+Maior valor para o negócio; (Priorização do Backlog)
+Usuários envolvidos durante todo ciclo
+aplicação das lições aprendidas(Melhoria Contínua)
+
+
+Características SCRUM
+
+Equipes capazes de se auto organizarem;
+As tarefas são do time e todos são responsáveis
+Forte comprometimento com os resultados.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aula 2
+
+Papéis e responsabilidades de cada um no time.
+
+
+Product Owner (PO)
+-Representa a área de negócios;
+-PO não é um Comitê;
+-Define as funcionalidades do software (Produtct Backlog)
+-Prioriza as funcionalidades de acordo com o valor do negócio
+-Garante que o time de desenvolvimento entenda os itens do Backlog no nível necessário.
+
+Scrum Master(SM)
+
+-Garantir o uso correto do SCRUM;
+-Scrum master não é Gerente de Projetos
+-Age como Facilitador.
+-Auxilia o Product Owner (PO) no planejamento e estimativas do Backlog.
+-Auxilia a equipe a remover impedimentos.
+-Treina o time em autogerenciamento e interdisciplinaridade.
+
+Time de Desenolvimento(DEV)
+
+-Possui habilidades suficientes para desenvolver, testar criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aula 3
+
+Cerimônias SCRUM
+
+Time Box
+
+Tempo máximo para fazer ua cerimônia ou Sprint
+
+
+Sprinto = Corrida, Arrancada
+
+É o principal evento do SCRUM.
+
+Duração de 1 Sprint: 30 dias corridos ou menos.
+
+Coposição de uma Sprint
+- Planejamento da Sprint
+- Reuniões diárioas (Daily Meeting) Time box 15 min
+- Revisão da Sprint (Review)
+- Retrospectiva da Sprint
+
+Planejamento da Sprint
+
+Planning Poker
+Reuniões diárias (DEv, PO, SM)
+O que fez no dia anterior? (To Do)
+O que Está programado pra fazer no dia? (Doing)
+Existe algum impedimento? (Done)
+
+Em pé no mesmo horario e local que o time decide. StandUp Meeting, 15 minutos.
+
+Revisão da Sprint (review) Time Box de 4h para uma Sprint de 30 dias.
+Retrospectiva da Sprint reunião para lições aprendidas Transparência 3h Sprint 30 dias.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+02 Fundamentos de um projeto ágil.
+
+
+Aula 1
+
+Papéis e responsabilidade - Product Owner
+
+O profissional responsável por vizualizar o valor que será agregado para a empresa e para o cliente que vai usar o produto.
+
+Product Owner (PO)
+-Representa a área de negócios;
+-PO não é um Comitê;
+-Define as funcionalidades do software (Produtct Backlog)
+-Prioriza as funcionalidades de acordo com o valor do negócio
+-Garante que o time de desenvolvimento entenda os itens do Backlog no nível necessário.
+
+Refining e Planning
+
+Product Backlog
+Sprint Backlog
+
+Release Planning
+
+De Multiplas Squads
+De projeto
+
+Liberação ou lançamento de software, é o lançamento de nova versão oficial de produto de software.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aula 2 
+
+Análisando Escopo e definindo prioridades
+
+Product Backlog
+
+O product Backlog é composto por Épicos e Estórias
+
+Épicos = Incremento sem muito detalhamento, ajuda a te direcionar nos caminhos que deve seguir.
+Estória = Detalhamento dos Épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e suas regras de negócio.
+
+
+Riscos positivos
+
+Positivos = Muito ignorado nos projetos, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas.
+
+Negativos = Itens que podem afetar o prazo, custo ou escopo de um projeto de maneira que pode acabar invibializando-o.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aula 3 
+
+O papel do PO na transformação digital.
+
+Transformação digital
+É um processo no qual as epresas fazem uso da tecnologia para elhorar o desempenho, aumentar o alcance e garantir resultados melhores.
+É uma mudança estutural nas organizações dando um papel essencial para a tecnologia
+
+
+A transformação digital é sobre pessoas e não sobre tecnologia.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+03 Conceitos e atividades essenciais para o sucesso de u projeto ágil.
+
+Aula 1
+
+Conceitos e planejamento de tarefas
+
+1 - Estórias vs Tarefas
+
+Épico
+Conjunto de Estórias
+
+Estória: Uma tarefa descrita a nível de negócio
+
+
+Tarefas: Um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar uma Estória.
+
+Exemplo de Estória : C:\Users\Heliede\Desktop\DIO\Orbí\Exemplo_Estoria.JPG
+____________________________________________________________________________
+
+2 - Critérios de Aceite, Estimativa e Planejamento de Tarefas 
+
+
+Critério de Aceite---> É uma lista de critérios que precisam ser alcançadas para que a User Story atenda os requisitos do usuário e seja aceita pelo Product owner.
+Os critérios de aceitação têm o objetivo de: Definir limites para as User Stories. Ajudar o P.O. a detalhar em alto nível o que é necessário para entregar valor ao cliente.
+ 
+Estimativa e Planejamento de Tarefas ---> Panning Poker
+
+
+
+
+3 - Relacionamento com Clientes internos/Stakeholders
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aula 2
+
+Rotinas de um time Ágil
+
+Ritos
+
+
+Dayli Retrospectiva
+
+Reuniões diárias (DEv, PO'Opcional', SM'Opcional')
+O que fez no dia anterior? (To Do)
+O que Está programado pra fazer no dia? (Doing)
+Existe algum impedimento? (Done)
+
+
+Refinamento
+
+Finalidade de aumentar o entendimento da demanda por parte do time, melhorar a qualidade da entrega e aumentar o retorno esperado pelo projeto.
+
+Review
+
+Ver o que está sendo entregue, validar se está de acordo com o que foi solicitado inicialmente, validar se houve alguma mudança no meio do fluxo, bater com o que foi definido no refinamento e na planning e se agrega valor ao negócio.
+
+
+Maturidade da Equipe
+
+
+Pilares SCRUM
+Transparencia--> - Comprometimento - Coragem ---> Inspeção --> -Abertura - Foco - Respeito ---> Adaptação
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

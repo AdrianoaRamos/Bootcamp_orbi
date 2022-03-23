@@ -1,0 +1,198 @@
+Pensamento computacional
+
+formulação e resolução de problemas
+Sistemático e efeciente
+
+
+Habilidade generalista
+
+Dividir um problema complexo em Subproblemas
+Decomposição
+
+Identificar padroes ou tendencias
+Reconhecimento de padrões
+
+Extrapolar o conceito de uma fora generalista
+Abstração
+
+Automatizar - Definir passo a passo a solução do problema
+Design de Algorítimos
+ 
+
+Processo Contínuo
+
+Definir uma solução
+Testar a solução
+Aperfeiçoamento da solução
+
+Refinamento -> Teste -> Análise
+<----------------------------------
+
+Análise
+Execução da solução e avaliação (Refinamento)
+Abstraçao
+Resolução de problemas
+Automatização
+Expressão da solução
+
+Competências
+Pensamento sistemático
+Colaboração dentro da equipe
+Criatividade e design
+Facilitador
+
+
+
+
+Habilidades Complementares
+
+raciocínio lógico
+
+Classificação
+Indução
+Dedução
+Abdução
+
+
+Aperfeiçoamento
+
+Melhoramento
+Aprimoramento
+Refinamento
+Ato de aperfeiçiar
+
+A partir de uma solução, determinar pontos de melhora e refinamento
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+Pilar 1 Decomposição:
+
+Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto Problemas mais fáceis e gerenciavéis
+
+Estratégia
+
+	Análise
+Processo de quebrar e determinar partes menores e gerenciáveis.
+	Síntese
+Combinar elementos recompondo o problema original
+
+
+Ordem de execução das tarefas menores
+Sequêncial - Dependencias entre tarefas executadas em fila
+Paralelo - Tarefas podem ser executatas concomitantemente + Eficiência - Tempo
+
+Variáveis
+Pequenos Problemas
+Segmentação
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pilar 2 Reconhecimento de padões
+
+Modelo base
+
+Estrutura Invariante
+
+Repetição
+
+
+Por que determinar padrões
+Generalizar, com objetivo de obter resolução para problemas diferentes
+
+Padrões
+Representação de atributos
+Aprendizado - Conceito associado ao objeto
+Armazenar Dados
+Regras de decisão 
+------------------------------------------------------------------------------------------------------------------------------------------------
+Pilar 3 Abstração
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+Pilar 4 Algoritmos
+
+O computador recebe, manipuma e armazena dados através de instruções(programas)
+
+Passo a Passo(Step by Step)
+
+Precisa ser entendido por um Huano e uma Máquina
+
+Desenvolvimento do programa
+
+Análise
+Estudo e definição dos dados de entrada e saída
+
+Algoritmo
+Descreve o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo
+
+Codificação
+O Algoritmo é codificado de acordo com a linguage de programação escolhida
+
+Sequencia de passos com objetivo definido
+Execução de tarefas específicas
+Conjunto de operações de resultam em uma sucessão finita de ações
+ 
+
+Como Construir um algoritmo
+Compreensão do problema
+Definição dados de entrada
+Definir processamento
+Definir dados de saída
+Utilizar um étodo de construção
+Teste e diagnóstico
+
+Narrativa - Utilização da linguadem natural
+
+Fluxograma - Utilização de símbolos pré-definidos
+
+Pseudocódigo - Portugol
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Estudos de CAso
+
+Caso 1:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
