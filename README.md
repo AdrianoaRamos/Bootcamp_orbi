@@ -1,10 +1,11 @@
-#Bootcamp_orbi
+<h1>Bootcamp_orbi</h1>
 
-##Repositório com conteúdos do Bootcamp - Órbi Web Games Developer
+<h3>Repositório com conteúdos do Bootcamp - Órbi Web Games Developer</h3>
 
 Reposítório criado para incluir os conteúdos do Bootcamp Órbi Web Games Developer desponibilizado pela Digital Innovation One (DIO).
 
-Pastas
+<h4>Pastas</h4>
+
 - Certificados
 Arquivos .PDF com os certificados dos cursos realizados ao longo do Bootcamp.
 
